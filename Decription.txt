@@ -1,0 +1,3 @@
+For Verification, we used a group 145 different faces to compared with another group 145 differnts faces. The two group faces come each 145 differents faces
+
+For Recognition, we used first group 145 differnt faces as gallery and second group 145 differents face as probes, and screening all faces in probes compared to gallery.
